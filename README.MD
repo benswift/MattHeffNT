@@ -10,4 +10,4 @@ I dislike - how flat/insulated/algorithmically dirven and boring the web has bec
 
 Working on my anti-design personal site at the moment:
 
-(https://matt-heff.neocities.org)
+https://matt-heff.neocities.org
