@@ -6,7 +6,7 @@ My pronouns are He/Him.
 
 I love FOSS, video games, PopOS, Vim and Neovim. 
 
-I dislike - how flat/insulated/algorithmically dirven and boring the web has become. 
+I dislike - how flat/insulated/algorithmically driven and boring the web has become. 
 
 Working on my anti-design personal site at the moment:
 
